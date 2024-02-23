@@ -1,0 +1,23 @@
+.card {
+    -webkit-filter: brightness(100%);
+    user-select: none;
+}
+
+.card:hover {
+    -webkit-filter: brightness(70%);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+    cursor: pointer;
+}
+
+.input-group {
+    margin: 2rem auto 2rem auto;
+}
+
+#search {
+    font-size: 30px;
+    line-height: 75px;
+}

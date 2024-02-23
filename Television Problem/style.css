@@ -1,0 +1,54 @@
+.body {
+    background-color: darkgrey;
+}
+
+.input-group {
+    margin: 2rem auto 2rem auto;
+}
+
+#usrInput {
+    font-size: 30px;
+    line-height: 75px;
+}
+
+#searchBtn {
+    -webkit-filter: brightness(100%);
+    user-select: none;
+}
+
+#searchBtn:hover {
+    -webkit-filter: brightness(70%);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+    cursor: pointer;
+}
+
+.card {
+    -webkit-filter: brightness(100%);
+    user-select: none;
+}
+
+.card:hover {
+    -webkit-filter: brightness(70%);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.list-group .list-group-item {
+    background-color: #212529;
+    color: white;
+}
+
+.list-group .list-group-item:hover {
+    background-color: blue;
+    cursor: pointer;
+}
+
