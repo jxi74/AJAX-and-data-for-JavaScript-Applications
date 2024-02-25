@@ -2,7 +2,7 @@
 .then response calls url, gets the data, and puts it off on the side until it needs it
 The program will then run the rest of the js file
  */
-async function poke() {
+async function poke() { // promise
 
     let response = await fetch("https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json");
 
