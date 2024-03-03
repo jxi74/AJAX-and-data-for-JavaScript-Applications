@@ -1,5 +1,5 @@
 ## Three Projects that represent the use of AJAX and data for JavaScript Applications
-### Developed using HTML, CSS, Bootstrap, JavaScript, JQuery, and API fetch
+### Developed using HTML, CSS, Bootstrap, JavaScript, JQuery, API fetch, Async/Await, and Promises
 
 ## TV Guide searcher
 Link: https://jxi74.github.io/AJAX-and-data-for-JavaScript-Applications/Television%20Problem/
